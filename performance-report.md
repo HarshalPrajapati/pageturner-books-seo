@@ -21,4 +21,4 @@ Run PageSpeed Insights twice against a deployed URL: once before these changes a
 ## Validation checklist
 
 - Paste the complete `bookstore.html` into validator.schema.org and save a screenshot.
-- Deploy the files before validating `sitemap.xml` and before running PageSpeed Insights; `.example` URLs in the source must be replaced with the actual deployed domain.
+- Validate `sitemap.xml` and run PageSpeed Insights using the deployed GitHub Pages URL.

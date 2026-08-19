@@ -3,4 +3,4 @@ Allow: /
 Disallow: /admin/
 Disallow: /test/
 
-Sitemap: https://www.pageturnerbooks.example/sitemap.xml
+Sitemap: https://harshalprajapati.github.io/pageturner-books-seo/sitemap.xml
